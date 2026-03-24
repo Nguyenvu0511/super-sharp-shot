@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Super Sharp Shot - Menu Pro",
+  "version": "5.0",
+  "description": "Chụp ảnh màn hình siêu nét.",
+  "permissions": ["activeTab", "scripting", "clipboardWrite", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Chụp ngay"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
