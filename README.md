@@ -25,3 +25,10 @@ Vì đây là Extension tự phát triển, bạn có thể cài đặt dễ dà
 3. Bật chế độ Developer mode (Chế độ dành cho nhà phát triển) ở góc trên bên phải.
 4. Click vào nút Load unpacked (Tải tiện ích đã giải nén).
 5. Chọn thư mục chứa mã nguồn vừa tải về. Vậy là xong! 🎉
+
+Cách sử dụng
+1. Mở một trang web bất kỳ bạn muốn chụp ảnh.
+2. Click chuột phải vào màn hình, chọn " Tick" (Hoặc bấm vào biểu tượng icon Gundam của Extension trên góc phải trình duyệt).
+3. Màn hình sẽ tối lại. Nhấn giữ chuột trái và kèo để chọn vùng muốn chụp.
+4. Thả chuột ra, sẽ có thông báo: "(-) đã có trong bộ nhớ tạm của bạn
+5. Sang ứng dụng khác (Zalo, Messenger, Word...) và Ctrl + V để dán ảnh!
