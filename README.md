@@ -1,4 +1,4 @@
-# 📸 Super Sharp Shot - Menu Pro (v5.0)
+# 📸 Super Sharp Shot - Menu Pro
 
 **Super Sharp Shot** là một tiện ích mở rộng (Extension) dành cho Google Chrome / Microsoft Edge giúp bạn chụp ảnh màn hình, cắt vùng chọn tuỳ ý và lưu trực tiếp vào bộ nhớ tạm (Clipboard) với chất lượng **siêu nét**.
 
